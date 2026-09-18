@@ -20,7 +20,7 @@
                 guessCount++;
 
             }
-            Console.WriteLine("Spelet är slut. Du har gissat antal gissningar. ");
+            Console.WriteLine("goSpelet är slut. Du har gissat antal gissningar. ");
 
 
 
